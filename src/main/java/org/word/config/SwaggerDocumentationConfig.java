@@ -28,7 +28,7 @@ public class SwaggerDocumentationConfig {
             .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
             .termsOfServiceUrl("")
             .version("0.0.1")
-            .contact(new Contact("","", "15980292662@163.com"))
+            .contact(new Contact("","", ""))
             .build();
     }
 
